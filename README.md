@@ -38,10 +38,9 @@ if __name__ == "__main__":
     main()
 ```
 
-| CONTACT ME AT  | ACCOUNT |
+| MAIL ME AT  | ACCOUNT |
 | ------------- | ------------- |
-| ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  | f.vlad1422@outlook.com  |
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  |  f.vlad1422@gmail.com  |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  |  vladimirruifortes@gmail.com  |
 
 ### PROGRAMMING LANGUAGE | OPERATING SYSTEM | TESTS                                                                                                          
 | Python3 | Windows 11 | Pytest
