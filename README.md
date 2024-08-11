@@ -14,7 +14,7 @@ def main():
     print(learning())
     determination = "A LOT!"
     try:
-        if determination == "A LOT": # Which is always true!
+        if determination == "A LOT!": # Which is always true!
             raise OverflowError
     except OverflowError:
         print("Exploring to the fullest potential!")
