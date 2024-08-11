@@ -12,7 +12,7 @@ def main():
     print(name, username)
     print(about())
     print(learning())
-    determination = "A LOT"
+    determination = "A LOT!"
     try:
         if determination == "A LOT": # Which is always true!
             raise OverflowError
