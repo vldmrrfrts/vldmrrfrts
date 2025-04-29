@@ -41,8 +41,7 @@ if __name__ == "__main__":
 | MAIL ME AT  | ACCOUNT |
 | ------------- | ------------- |
 | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  |  vladimirruifortes@gmail.com  |
-
-### PROGRAMMING LANGUAGE | OPERATING SYSTEM | TESTS                                                                                                          
+                                                                                                   
 | C | Py3 | Win 11 |
 |----------|----------|----------|                                                                                                                                                    
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"/>|
