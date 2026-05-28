@@ -7,8 +7,8 @@
 ## ABOUT ME | 🙆
 ```python
 def main():
-    name = "Vladimir Rui C. Fortes"
-    username = "@vldmrrfrts"
+    name = "Vladimir Rui Fortes"
+    username = "@byruifortes"
     print(name, username)
     print(about())
     print(learning())
@@ -30,7 +30,7 @@ def about():
     
 
 def learning():
-    learning = ['C', 'Essentials in Programming'}
+    learning = ['C', 'Essentials in Programming', 'Electrical Engineering', 'Power Engineering'}
     return learning
 
 
