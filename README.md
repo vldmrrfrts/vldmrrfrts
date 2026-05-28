@@ -30,7 +30,7 @@ def about():
     
 
 def learning():
-    learning = ['C', 'Essentials in Programming', 'Electrical Engineering', 'Power Engineering'}
+    learning = ['C', 'Python', 'Essentials in Programming', 'Electrical Engineering', 'Power Engineering'}
     return learning
 
 
