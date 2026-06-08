@@ -1,5 +1,5 @@
 ![C](https://img.shields.io/badge/wannabe%20cdev-3670A0?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/former%20pythonista-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/pythonista-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows11](https://img.shields.io/badge/windows%2011-blue?style=for-the-badge&logo=Windows)
 ![GitHub](https://img.shields.io/badge/open%20for%20pulls-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![edX](https://img.shields.io/badge/edX%20learner-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
